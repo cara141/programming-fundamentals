@@ -1,0 +1,10 @@
+1,Bober,2023/12/12,Poland,mammal,10
+2,Taxictis lumenus,1994/11/01,Antarctica,reptile,4
+3,Amazonica impennis,2011/04/12,Brazil,reptile,60
+4,Urs1,2021/01/11,Brazil,mammal,15
+5,Urs2,2020/02/12,Poland,mammal,20
+6,Albina,2019/03/13,Poland,insect,25
+7,Urs polar,2018/04/14,Antarctica,mammal,30
+8,Pisica1,2017/05/15,Poland,mammal,35
+9,Pasare2,2016/06/16,Poland,bird,40
+10,Pasare1,2015/07/17,Poland,bird,45
